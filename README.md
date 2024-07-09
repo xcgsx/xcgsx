@@ -4,7 +4,7 @@
 - 🙃喜欢钻研互联网，喜欢参与开源项目的讨论
 - 🤪我是一个友好的人，您可以在社交媒体上与我联系
 - 🙄本Github里没什么东西，都是学习过程中的垃圾代码
-- 😪我的另一个秘密小窝：[小城故事 - 欢迎光临！](https://www.webxc.eu.org/)
+- 😪我的另一个秘密小窝：[小城故事 - 欢迎光临！](https://webxc.eu.org/)
 
 ![](https://github-readme-stats.vercel.app/api?username=web-xc&show_icons=true&theme=vue)
 
